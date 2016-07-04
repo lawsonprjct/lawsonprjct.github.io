@@ -12,3 +12,10 @@ The next morning, Jamie wakes up Vicki and instructs her to deliver breakfast in
 Upset because he has gotten in trouble, Jamie thinks out loud to himself that he needs to do something big in order to impress his parents. He sneaks out of the house and over to the local shopping mall. But, Vicki has followed him and accidentally gets locked in a storage closet. Jame panics but Vicki uses her strength to bust out.
 
 The two kids sneak back into the kitchen thinking they've made it back scott-free, but their parents are waiting for them.
+
+---
+published: true
+title: Defining “Small Wonder”
+layout: post
+categories: [ChapterTwo]
+---
