@@ -1,4 +1,4 @@
 # Summary
 
-* [SUMMARY.md](SUMMARY.md)
+* [Defining "Small Wonder"](_posts/2016-07-04-defining-small-wonder.markdown)
 
