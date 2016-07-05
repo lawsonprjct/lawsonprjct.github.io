@@ -1,11 +1,10 @@
 ---
-published: true
 title: Defining “Small Wonder”
+published: true
 layout: post
-categories: [ChapterTwo]
+categories:
+- ChapterTwo
 ---
-
-# Defining “Small Wonder”
 
 A lot of the articles and posts I've read on the web have described “Small Wonder” as a bad show. This seems harsh to me. Instead, I'd like to say that the show was the product of its time, and of circumstances. “Small Wonder” was one of the first sitcoms that had been made specifically for syndication. This means that both its market and its budget were smaller. This also means that as a show it wasn't sold in the same way as its counterparts on the TV networks.
 
