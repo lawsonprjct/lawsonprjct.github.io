@@ -1,10 +1,8 @@
 ---
-title: test5
+title: Pilot Episode Summary
 date: '2016-07-06 23:26:00'
 layout: post
 ---
-# Pilot Episode Summary
-
 The episode begins in the morning with a shot of Ted Lawson leaving work while carrying a medium sized case. Cut to the kitchen, where Joan and their son Jamie Lawson are talking. Joan encourages Jamie to ask his dad if he will do something with him, when Ted storms through the door and answers that he won't be doing anything with Jamie. He hurries into the living room carrying his mysterious beige case. Jame and Joan follow him.
 
 Up in Ted and Joan's bedroom, Ted reveals the contents of the case: body parts for a doll-like robot. It's a part of an experiment he has been working on at work but it hasn't been going well. He says that he wants to continue working on it, and Joan says that it's okay with her.
